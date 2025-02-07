@@ -8,7 +8,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 
 ### Соц. сети и мессенджеры
-![VK](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VK&logoColor=0076FF)
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=34ABDF)
+[![VK](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VK&logoColor=0076FF)](https://vk.com/vladimr.danilov)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=34ABDF)](https://t.me/vladimrdanilov)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lars-vn&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=Lars-vn&show_icons=true)
