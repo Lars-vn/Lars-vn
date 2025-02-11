@@ -1,0 +1,49 @@
+html{
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after{
+box-sizing: inherit;
+}
+img{
+  max-width: 100%;
+}
+body{
+  font-family: 'Times New Roman', Times, serif;
+}
+h1{
+  margin: 0 0 1em 0;
+}
+.content {
+  padding: 2rem 1em;
+}
+p{
+  margin: 0 0 1em 0;
+}
+h2{
+  margin: 0 0 1em 0;
+}
+figure{
+  margin: 0 0 1em 0;
+}
+ul{
+  margin: 0 0 1em 0;
+}
+table{
+  margin: 0 0 1em 0;
+}
+/* q {
+  background: #f3f2f6;
+  font-size: larger;
+  color: gray;
+  font-weight: 500;
+  padding: 15px;
+}
+cite {
+  background: #f3f2f6;
+  font-size: larger;
+  color: gray;
+  font-weight: 500;
+  padding: 15px;
+} */
