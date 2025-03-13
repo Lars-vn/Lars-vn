@@ -10,10 +10,12 @@
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
 ![Soapui](https://img.shields.io/badge/-Soapui-090909?style=for-the-badge&logo=Soapui)
 ![Rest](https://img.shields.io/badge/-Rest-090909?style=for-the-badge&logo=Rest)
+![Fiddler](https://img.shields.io/badge/-Fiddler-090909?style=for-the-badge&logo=fiddler)
 ![Devtools](https://img.shields.io/badge/-Devtools-090909?style=for-the-badge&logo=Devtools)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira)
 ![Testrail](https://img.shields.io/badge/-Testrail-090909?style=for-the-badge&logo=Testrail)
-![Android-studio](https://img.shields.io/badge/-Android-studio-090909?style=for-the-badge&logo=Android-studio)
+![androidstudio](https://img.shields.io/badge/-androidstudio-090909?style=for-the-badge&logo=androidstudio)
+![vscode](https://img.shields.io/badge/-Vscode-090909?style=for-the-badge&logo=vscode)
 
 
 ### Соц. сети и мессенджеры
