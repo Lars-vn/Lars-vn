@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=006488)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
 
 ### Соц. сети и мессенджеры
 [![VK](https://img.shields.io/badge/-VKontakte-090909?style=for-the-badge&logo=VK&logoColor=0076FF)](https://vk.com/vladimr.danilov)
